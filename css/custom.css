@@ -1,0 +1,12 @@
+
+.button-crbs {
+	--button-text:#000000;
+	--button-background:#FFFFFF;
+	--button-border:1px solid #ff6400;
+}
+
+.button-st {
+	--button-text:#291544;
+	--button-background:#FFFFFF;
+	--button-border:1px solid #291544;
+}
